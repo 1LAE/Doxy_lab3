@@ -42,6 +42,7 @@ Fastest algorithm | _Binary power_ ||
 
 ### Link example #
 
-[<img src="https://codeforces.org/s/75755/images/codeforces-logo-with-telegram.png" alt="CF" width="250"/>](https://codeforces.com)
+[<img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" alt="GIT" width="75"/>](https://github.com/1LAE/Doxy_lab3)
 
-[<img src="https://www.google.ru/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png" alt="Google" width="250"/>](https://google.com)
+[<img src="https://codeforces.org/s/75755/images/codeforces-logo-with-telegram.png" alt="CF" width="300"/>](https://codeforces.com)
+[<img src="https://www.google.ru/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png" alt="Google" width="200"/>](https://google.com)
