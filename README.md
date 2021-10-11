@@ -6,9 +6,11 @@ This page was generated, using __Doxygen__.
 
 ### Picture usage example #
 
-<img src="./assets/pic.png" alt="Picture" width="300"/>
-<img src="./assets/pic.png" alt="Picture" width="200"/>
-<img src="./assets/pic.png" alt="Picture" width="100"/>
+|   |   |   |
+|:-:|:-:|:-:|
+|<img src="../assets/pic.png" alt="Picture" width="400"/>|<img src="../assets/pic.png" alt="Picture" width="300"/>|<img src="../assets/pic.png" alt="Picture" width="200"/>|
+|<img src="../assets/pic.png" alt="Picture" width="300"/>|<img src="../assets/pic.png" alt="Picture" width="200"/>|<img src="../assets/pic.png" alt="Picture" width="100"/>|
+|<img src="../assets/pic.png" alt="Picture" width="200"/>|<img src="../assets/pic.png" alt="Picture" width="100"/>|<img src="../assets/pic.png" alt="Picture" width="50"/>|
 
 #### Lists usage example: #
 - _Italic text_.
