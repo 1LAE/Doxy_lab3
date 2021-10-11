@@ -1,4 +1,3 @@
-@mainpage
 # ExampleProject
 
 **ExampleProject** made for lab3 on dev & analysis of tech. documentation
